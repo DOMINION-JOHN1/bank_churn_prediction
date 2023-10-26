@@ -63,7 +63,3 @@ if __name__ == '__main__':
         st.sidebar.error('Prediction: NON Churn (NC)')
 
 
-# Run the Streamlit app
-if __name__ == '__main__':
-    st.set_option('deprecation.showPyplotGlobalUse', False)
-    st.run()
